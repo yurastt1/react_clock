@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,OACE,SAAU,CACX,KAGC,WAAY,CACZ,WAAY,CACZ,wBAAyB,CACzB,YAAa","file":"main.dcba33f3.chunk.css","sourcesContent":[".clock {\r\n  color: red;\r\n}\r\n\r\n.App {\r\n  margin: auto;\r\n  width: 200px;\r\n  border: 5px solid #f1f14a;\r\n  padding: 10px;\r\n}\r\n"]}
